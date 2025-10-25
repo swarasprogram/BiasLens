@@ -1,0 +1,10 @@
+{
+  "cnn.com": "left",
+  "foxnews.com": "right",
+  "reuters.com": "center",
+  "nytimes.com": "left",
+  "breitbart.com": "right",
+  "bbc.com": "center-left",
+  "aljazeera.com": "center",
+  "npr.org": "center-left"
+}
